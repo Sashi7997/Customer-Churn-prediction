@@ -1,0 +1,6 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+Female,0,Yes,No,5,Yes,29.85,29.85,Month-to-month,Electronic check,Yes
+Male,0,No,No,2,Yes,56.95,188.5,Month-to-month,Mailed check,Yes
+Male,0,No,No,8,Yes,53.85,108.15,Month-to-month,Electronic check,No
+Male,0,No,No,22,Yes,42.3,1840.75,One year,Bank transfer (automatic),No
+Female,0,Yes,No,10,Yes,70.7,151.65,Month-to-month,Electronic check,Yes
